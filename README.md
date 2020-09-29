@@ -6,13 +6,17 @@ SF作家兼ソフトウェアエンジニア。主な言語は日本語とRuby�
 
 ### 短編
 
-- 「[コンビニ店員アイ](https://kakuyomu.jp/works/1177354054887877892)」2018年12月 [EPUB](https://github.com/fuji-nakahara/ai-a-convenience-store-clerk/releases/latest/download/ai-a-convenience-store-clerk.epub)
-- 「[透明な血のつながり](https://kakuyomu.jp/works/1177354054887774030)」2018年12月 [EPUB](https://github.com/fuji-nakahara/transparent-blood-relation/releases/latest/download/transparent-blood-relation.epub)
-- 「[サイボーグ・クラスメイト](https://kakuyomu.jp/works/1177354054887430692)」2018年8月 [EPUB](https://github.com/fuji-nakahara/cyborg-classmate/releases/latest/download/cyborg-classmate.epub)
+| タイトル | 日付 | リンク |
+| -- | -- | -- |
+| コンビニ店員アイ | 2018年12月 | [カクヨム](https://kakuyomu.jp/works/1177354054887877892), [EPUB](https://github.com/fuji-nakahara/ai-a-convenience-store-clerk/releases/latest/download/ai-a-convenience-store-clerk.epub) |
+| 透明な血のつながり | 2018年12月 | [カクヨム](https://kakuyomu.jp/works/1177354054887774030), [EPUB](https://github.com/fuji-nakahara/transparent-blood-relation/releases/latest/download/transparent-blood-relation.epub) |
+| サイボーグ・クラスメイト | 2018年8月 | [カクヨム](https://kakuyomu.jp/works/1177354054887430692), [EPUB](https://github.com/fuji-nakahara/cyborg-classmate/releases/latest/download/cyborg-classmate.epub) |
 
 ### 梗概集
 
-- 『[SF創作講座 2018 梗概集](https://kakuyomu.jp/works/1177354054885765919)』2019年1月 [EPUB](https://github.com/fuji-nakahara/genron-sf-2018/releases/latest/download/genron-sf-2018.epub)
+| タイトル | 日付 | リンク |
+| -- | -- | -- |
+| SF創作講座 2018 梗概集 | 2019年1月 | [カクヨム](https://kakuyomu.jp/works/1177354054885765919), [EPUB](https://github.com/fuji-nakahara/genron-sf-2018/releases/latest/download/genron-sf-2018.epub) |
 
 ## リンク
 
