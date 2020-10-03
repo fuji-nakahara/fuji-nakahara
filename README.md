@@ -21,3 +21,4 @@ SF小説家兼プログラマ。主な言語は日本語とRuby。
 ## リンク
 
 - [未来はあまりに遠いし、おれはもう待てない](https://blog.fuji-nakahara.page/)（ブログ）
+- [フジ・ナカハラのネタ帳](https://scrapbox.io/fuji-nakahara/)（Scrapbox）
