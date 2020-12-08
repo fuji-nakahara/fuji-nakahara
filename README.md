@@ -8,6 +8,7 @@ SF小説家兼プログラマ。主な言語は日本語とRuby。
 
 | タイトル | 日付 | リンク |
 | -- | -- | -- |
+| 家庭の味 | 2020年12月 | [カクヨム](https://kakuyomu.jp/works/1177354055185307874), [EPUB](https://github.com/fuji-nakahara/taste-of-home/releases/latest/download/taste-of-home.epub)
 | コンビニ店員アイ | 2018年12月 | [カクヨム](https://kakuyomu.jp/works/1177354054887877892), [EPUB](https://github.com/fuji-nakahara/ai-a-convenience-store-clerk/releases/latest/download/ai-a-convenience-store-clerk.epub) |
 | 透明な血のつながり | 2018年12月 | [カクヨム](https://kakuyomu.jp/works/1177354054887774030), [EPUB](https://github.com/fuji-nakahara/transparent-blood-relation/releases/latest/download/transparent-blood-relation.epub) |
 | サイボーグ・クラスメイト | 2018年8月 | [カクヨム](https://kakuyomu.jp/works/1177354054887430692), [EPUB](https://github.com/fuji-nakahara/cyborg-classmate/releases/latest/download/cyborg-classmate.epub) |
