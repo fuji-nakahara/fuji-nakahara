@@ -21,4 +21,3 @@ SF小説とコードを書きます。主な言語は日本語とRuby。
 ## リンク
 
 - [未来はあまりに遠いし、おれはもう待てない](https://fuji-nakahara.hatenablog.com/)（ブログ）
-- [フジ・ナカハラのネタ帳](https://scrapbox.io/fuji-nakahara/)（Scrapbox）
